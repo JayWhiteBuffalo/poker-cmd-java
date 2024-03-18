@@ -2,7 +2,10 @@
 # Poker cmd-line Java
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 # Description
-A Command line application written in Java to play 5-card-draw Poker. 
+A Command line application written in Java to play 5-card-draw Poker.
+
+![Uploading Screenshot (68).png…]()
+ 
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)

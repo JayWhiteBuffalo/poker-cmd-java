@@ -4,7 +4,7 @@
 # Description
 A Command line application written in Java to play 5-card-draw Poker.
 
-![Uploading Screenshot (68).png…]()
+![Screenshot of Application](src/main/resources/Screenshot.png)
  
 # Table of Contents
 * [Installation](#installation)
